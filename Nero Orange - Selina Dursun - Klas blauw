@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nero Orange</title>
+</head>
+<body>
+    <header>
+        <ul>
+            <li> HOME</li>
+            <li><a href="ABOUT.html"> ABOUT </a></li>
+            <li> SERVICES </li>
+            <li> WORK </li>
+            <li> CONTACT</li>
+        </ul>
+
+    </header>
+    <main>
+    <h1> NERO ORANGE </h1>
+    <h2> Welcome </h2>
+    <p><a href="ABOUT.html">Link</a> learn more about us </p>
+    <h2> Nero Is The New Orange </h2>
+    <p> OUR DESIGNS. YOUR GROWTH</p>
+    <img 
+    src="Images/Schermafbeelding 2023-09-12 om 21.04.41.png" alt="afbeelding van een oranje vlak"
+    />
+    <!-- bron: freepik https://www.freepik.com/free-photo/abstract-orange-background-layout-design-studio-room-web-template-business-report-with-smooth-circle-gradient-color_18303179.htm#query=orange%20bloik&position=17&from_view=search&track=ais-->
+
+</main> 
+<footer> copyright </footer>
+</body>
+</html>

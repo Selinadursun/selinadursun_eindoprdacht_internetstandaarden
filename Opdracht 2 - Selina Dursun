@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nero Orange</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <div class="nav"
+             <ul>
+                 <li class="HOME"></li><a href="index.html"> HOME</a></li>
+                 <li><a href="ABOUT.html">ABOUT</a></li>
+                 <li> <a href="SERVICES.html">SERVICE</a></li>
+                 <li><a href="WORK.html"> WORK</a></li>
+                 <li><a href="CONTACT.html">CONTACT</a></li>
+             </ul>
+        </div>
+    </header>
+         
+    </header>
+    <main>
+
+        <h1> NERO ORANGE </h1>
+
+        
+                
+        <img src="images/Patroon achtegrond oranje zwart_Tekengebied 1.png" alt="slogan van het bedrijf" 
+       
+        <h2> NERO IS THE NEW ORANGE </h2>
+          <p><em>"OUR DESIGNS.</em></p> 
+          <p><em>YOUR GROWTH."</em></p>
+
+</main> 
+<footer> THIS WEBSITE IS MADE BY SELINA DURSUN </footer>
+</body>
+</html>
